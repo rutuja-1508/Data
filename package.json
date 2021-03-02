@@ -1,0 +1,26 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bson": "^4.2.2",
+    "err": "^2.1.12",
+    "express": "^4.17.1",
+    "jsonfile": "^6.1.0",
+    "lib": "^4.3.2",
+    "logger": "0.0.1",
+    "mongoose": "^5.11.17",
+    "package.json": "^2.0.1",
+    "python": "0.0.4",
+    "req": "^0.1.4",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
